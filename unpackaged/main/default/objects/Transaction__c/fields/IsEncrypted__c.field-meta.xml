@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>IsEncrypted__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>This field indicates if the record is encrypted or not.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>This field indicates if the record is encrypted or not.</inlineHelpText>
+    <label>Is Encrypted</label>
+    <trackHistory>true</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

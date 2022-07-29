@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Headers__c</fullName>
+    <businessStatus>Active</businessStatus>
+    <description>Serialized headers.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Serialized headers.</inlineHelpText>
+    <label>Headers</label>
+    <length>131072</length>
+    <securityClassification>Restricted</securityClassification>
+    <trackHistory>true</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>LongTextArea</type>
+    <visibleLines>3</visibleLines>
+</CustomField>

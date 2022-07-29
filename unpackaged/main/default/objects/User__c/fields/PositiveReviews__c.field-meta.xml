@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>PositiveReviews__c</fullName>
+    <description>Positive reviews received by the user.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Positive reviews received by the user.</inlineHelpText>
+    <label>Positive Reviews</label>
+    <summaryFilterItems>
+        <field>Review__c.Positive__c</field>
+        <operation>equals</operation>
+        <value>True</value>
+    </summaryFilterItems>
+    <summaryForeignKey>Review__c.UserReviewed__c</summaryForeignKey>
+    <summaryOperation>count</summaryOperation>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Summary</type>
+</CustomField>

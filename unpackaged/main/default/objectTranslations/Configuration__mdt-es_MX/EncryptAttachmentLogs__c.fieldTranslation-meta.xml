@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <help><!-- If true, those Transaction logs bigger than 131072 (Text Area fields) will be stored as encrypted attachments, otherwise the data will be plain text. --></help>
+        <label><!-- Encrypt Attachment Logs --></label>
+        <name>EncryptAttachmentLogs__c</name>
+    </CustomFieldTranslation>

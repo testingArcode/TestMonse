@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Visitor__c</fullName>
+    <deleteConstraint>Restrict</deleteConstraint>
+    <description>User that visited the profile.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>User that visited the profile.</inlineHelpText>
+    <label>Visitor</label>
+    <referenceTo>User__c</referenceTo>
+    <relationshipLabel>Visits (Visitor)</relationshipLabel>
+    <relationshipName>VisitorVisits</relationshipName>
+    <required>true</required>
+    <trackHistory>true</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>
