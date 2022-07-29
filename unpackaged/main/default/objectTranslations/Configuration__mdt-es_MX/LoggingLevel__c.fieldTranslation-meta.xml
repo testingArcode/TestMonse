@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <help><!-- This field determines the logging level of the App. --></help>
+        <label><!-- Logging Level --></label>
+        <name>LoggingLevel__c</name>
+        <picklistValues>
+            <masterLabel>All</masterLabel>
+            <translation><!-- All --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Exceptions Only</masterLabel>
+            <translation><!-- Exceptions Only --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

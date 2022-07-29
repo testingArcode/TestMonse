@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <help><!-- Negative reviews received by the user. --></help>
+        <label><!-- Negative Reviews --></label>
+        <name>NegativeReviews__c</name>
+    </CustomFieldTranslation>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>RedirectURI__c</fullName>
+    <description>Redirect URI after authentication</description>
+    <externalId>false</externalId>
+    <fieldManageability>DeveloperControlled</fieldManageability>
+    <inlineHelpText>Redirect URI after authentication</inlineHelpText>
+    <label>Redirect URI</label>
+    <required>false</required>
+    <type>Url</type>
+</CustomField>

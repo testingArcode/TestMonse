@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <help><!-- This defines if all the Transaction fields must be encrypted. --></help>
+        <label><!-- Encrypt Transaction Fields --></label>
+        <name>EncryptTransactionFields__c</name>
+    </CustomFieldTranslation>

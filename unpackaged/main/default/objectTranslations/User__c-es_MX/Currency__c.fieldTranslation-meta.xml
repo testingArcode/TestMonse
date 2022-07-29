@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <help><!-- Currency of the price range of the provider. --></help>
+        <label><!-- Currency --></label>
+        <name>Currency__c</name>
+        <picklistValues>
+            <masterLabel>BTC</masterLabel>
+            <translation><!-- BTC --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>MXN</masterLabel>
+            <translation><!-- MXN --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>USD</masterLabel>
+            <translation><!-- USD --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>
